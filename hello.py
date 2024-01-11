@@ -7,3 +7,8 @@ print("a*b =", c)
 # a="{(clone)}"
 print("clone")
 
+a=33
+b=4
+sum=a+b
+print("the sum of given two number is",sum)
+
