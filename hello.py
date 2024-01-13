@@ -16,3 +16,10 @@ num2=float(input("enter another number here:"))
 sum=num1+num2
 print("add two number sum:",sum)
 
+#convert a dictionary into a list of tuples.
+a_dictionary={'a':1,'b':2,'c':3}
+a_view=a_dictionary.items()
+a_list=list(a_view)
+print(a_list)
+
+
