@@ -18,8 +18,14 @@ print("add two number sum:",sum)
 
 #convert a dictionary into a list of tuples.
 a_dictionary={'a':1,'b':2,'c':3}
+
 a_view=a_dictionary.items()
 a_list=list(a_view)
 print(a_list)
+
+#age defined
+old_age=input("enter your old age":)
+new_age=int(old_age)+3
+print(new_age)
 
 
