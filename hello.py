@@ -28,4 +28,11 @@ old_age=input("enter your old age":)
 new_age=int(old_age)+3
 print(new_age)
 
+a=input("enter yoiur first name:")
+b=input("enter your alst name:")
+d=input("contact no:")
+
+c= a+b+d
+print("your name:",c)
+
 
