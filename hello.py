@@ -35,4 +35,10 @@ d=input("contact no:")
 c= a+b+d
 print("your name:",c)
 
+#square root no.
+import math
+num=int(input("Enyter a number here:"))
+sr=math.sqrt(num)
+print("The square root of the given number is:",sr)
+
 
