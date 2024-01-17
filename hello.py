@@ -41,4 +41,8 @@ num=int(input("Enyter a number here:"))
 sr=math.sqrt(num)
 print("The square root of the given number is:",sr)
 
-
+#height and base area defined
+height=(input("enter the heigh of the tringle"))
+base=(input("enter the base of the tringle"))
+area=(1\2)*base*height
+print("The area of the tringle is",area)
