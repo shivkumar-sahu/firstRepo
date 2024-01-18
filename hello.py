@@ -46,3 +46,9 @@ height=(input("enter the heigh of the tringle"))
 base=(input("enter the base of the tringle"))
 area=(1\2)*base*height
 print("The area of the tringle is",area)
+#without using 3rd variable
+x=25
+y=52
+x,y=y,x
+print("the value of x is",x)
+print("the value of y is",y)
