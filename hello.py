@@ -52,3 +52,9 @@ y=52
 x,y=y,x
 print("the value of x is",x)
 print("the value of y is",y)
+
+#convert kilometer to miles
+km=float(input("Enter your value in km:"))
+miles=(0.621371)*km
+print(km,"kms in miles will be",miles,"miles")
+
