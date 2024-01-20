@@ -58,3 +58,12 @@ km=float(input("Enter your value in km:"))
 miles=(0.621371)*km
 print(km,"kms in miles will be",miles,"miles")
 
+#check a number positive,negative and zero.
+num=int(input("Enter a number here:"))
+if num>0:
+  print("it is a positive number")
+elif num==0:
+  print("it is zero")
+else:
+  print("it is a negative number")
+  
