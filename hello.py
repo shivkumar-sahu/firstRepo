@@ -66,4 +66,11 @@ elif num==0:
   print("it is zero")
 else:
   print("it is a negative number")
+
+#even and odd number
+a=(input("Input number here:"))
+if a %2==0;
+print("it is an even number:")
+else:
+print("it is an odd number:")
   
