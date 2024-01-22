@@ -77,11 +77,11 @@ print("it is an odd number:")
 # leap year find 
 year=int(input("Enter a year:"))
   if()year%400==0)and(year%100==0):
-print(year,"is a leap year")
+    print(year,"is a leap year")
 elip(year%4==0)and (year%100!=0):
-print(year,"is a lep year:")
+   print(year,"is a lep year:")
 else:
-    print(year,"is not leap year")
+  print(year,"is not leap year")
 
 
 
