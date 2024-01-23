@@ -83,6 +83,18 @@ elip(year%4==0)and (year%100!=0):
 else:
   print(year,"is not leap year")
 
+# find the largest  among three numbers.
+num1=12
+num2=34
+num3=99
+if (num1>num2)and(num1>num3):
+  print(num1,"is the largst number")
+elif(num2>num3)and(num2>num3):  
+  print(num2,"is the largest number")
+else:
+  print(num3,"is the largest number")
+  
+
 
 
 
