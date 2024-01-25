@@ -103,6 +103,11 @@ if num>1:
       print("it is a prime number")
 else:
   print("it is a prime number")
+  #generate a random number
+
+import random
+num=random.randint(0,10)
+print(num)
 
 
 
