@@ -131,7 +131,13 @@ for i in my_str:
 
 for i in my_str:
     x-=1
-    print(my_str[0:x])    
+    print(my_str[0:x])  
+
+#convert celsius to fahrenheit
+celsius=int(input("enter tempreture in celsius:"))
+fehrenheit=(celsius*(1.8))+32
+print("The cinverted value is",fahrenheit,"fahrenheit")
+
 
 
 
