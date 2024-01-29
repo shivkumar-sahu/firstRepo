@@ -7,6 +7,9 @@ print("a*b =", c)
 # a="{(clone)}"
 print("clone")
 
+a=int(input("Enter here first name:"))
+print(a)
+
 a=33
 b=4
 sum=a+b
