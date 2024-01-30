@@ -141,6 +141,9 @@ celsius=int(input("enter tempreture in celsius:"))
 fehrenheit=(celsius*(1.8))+32
 print("The cinverted value is",fahrenheit,"fahrenheit")
 
+a=int(input(enter no.here:))
+print(a)
+
 
 
 
