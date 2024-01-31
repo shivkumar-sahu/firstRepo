@@ -144,6 +144,13 @@ print("The cinverted value is",fahrenheit,"fahrenheit")
 a=int(input(enter no.here:))
 print(a)
 
+#user inpit
+a=float(input("first number here:"))
+b=float(input("second number here:"))
+
+c=a+b
+print(c)
+
 
 
 
