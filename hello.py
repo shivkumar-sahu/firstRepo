@@ -155,6 +155,11 @@ b=float(input("second number here:"))
 c=a+b
 print(c)
 
+def greet(name):
+  print("hello",name)
+ #pass arguments
+  greet("sahoo")
+
 
 
 
