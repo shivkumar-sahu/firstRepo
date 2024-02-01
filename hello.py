@@ -159,6 +159,12 @@ def greet(name):
   print("hello",name)
  #pass arguments
   greet("sahoo")
+   #two number add pre defined 
+
+num1=40
+num2= 34
+
+print("the sum of the given two number is :",num1+num2)
 
 
 
