@@ -1,7 +1,4 @@
-a="hello"
-b="sahu"
-c=a=b
-print(c)
+
 print("Welcome monu")
 print("in Python World")
 a=5
