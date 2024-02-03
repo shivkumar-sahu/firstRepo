@@ -164,6 +164,16 @@ num2= 34
 print("the sum of the given two number is :",num1+num2)
 
 
+x=int(input("enter the valu o x:"))
+match x:
+    case 0:
+        print("x is zero")
+    case 4:
+        print("case is 4")
+        case_:
+        print(x)
+
+
 
 
 
