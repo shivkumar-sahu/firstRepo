@@ -182,6 +182,13 @@ def fact(a):
     result=fact(num)
 print("the factorial of the given number is ",result)
 
+#table ko print karna
+
+n=int(input("enter number here:"))
+for i in range(1,11):
+  print(n,"x",i,"=",n*i)
+
+
 
 
 
