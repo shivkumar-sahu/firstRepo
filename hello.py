@@ -188,6 +188,12 @@ n=int(input("enter number here:"))
 for i in range(1,11):
   print(n,"x",i,"=",n*i)
 
+n=55
+i=1
+while i<=10:
+  print(n,"x",i,"=",n*i)
+  
+
 
 
 
