@@ -192,9 +192,12 @@ n=55
 i=1
 while i<=10:
   print(n,"x",i,"=",n*i)
-  
 
+a=float(input("enter a value "))
+b=float(input(""enter other value))
 
+c=a+b
+print(c,"this is final value:")
 
 
 
