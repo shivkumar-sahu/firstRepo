@@ -1,5 +1,6 @@
 
-
+a=float(input("inter the decimal number:"))
+print(a)
 a=5
 b=6
 c=a*b
