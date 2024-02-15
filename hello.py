@@ -193,9 +193,7 @@ n=55
 i=1
 while i<=10:
   print(n,"x",i,"=",n*i)
-
-
-print("hello")
+  var=int(input("the first variable:"))
 
 
 
