@@ -195,5 +195,16 @@ while i<=10:
   print(n,"x",i,"=",n*i)
   var=int(input("the first variable:"))
 
+num=int (input("enter number here:"))
 
-
+sum=0
+temp=num
+while temp>0:
+  digit=temp%10
+  cube=digit**3
+  sum=sum+cube
+  fd=temp
+  if sum==sum:
+    print("it is an armstrong number")
+  else:
+    print("it is not armstrong number")
