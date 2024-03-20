@@ -208,3 +208,13 @@ while temp>0:
     print("it is an armstrong number")
   else:
     print("it is not armstrong number")
+
+
+#true and false value
+
+a=True
+b=False
+if not a:
+  print("My name is a")
+  if not b:
+    print("My name is b")
