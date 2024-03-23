@@ -218,3 +218,7 @@ if not a:
   print("My name is a")
   if not b:
     print("My name is b")
+
+#list create
+my_list = [1,2,3,4,5]
+print(my_list[1:4])
