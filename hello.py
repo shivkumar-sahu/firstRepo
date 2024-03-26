@@ -225,3 +225,5 @@ print(my_list[1:4])
 
 mylist=[1,2,3,4,5,6]
 print(mylist)
+ mylist=[1,2,3,4,5,6]
+print(mylist[2:5])
