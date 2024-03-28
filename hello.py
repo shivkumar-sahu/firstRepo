@@ -232,3 +232,6 @@ print(mylist[2:5])
 l1=['hello',1,2,3,4,'s']
 print(l1)
 print(type(l1))
+ l1=['hello','r','d',2]
+li.append(1)=world
+print(l1)
