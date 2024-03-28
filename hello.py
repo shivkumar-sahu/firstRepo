@@ -227,3 +227,8 @@ mylist=[1,2,3,4,5,6]
 print(mylist)
  mylist=[1,2,3,4,5,6]
 print(mylist[2:5])
+
+#loist create
+l1=['hello',1,2,3,4,'s']
+print(l1)
+print(type(l1))
