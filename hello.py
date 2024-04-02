@@ -19,7 +19,14 @@ num1=float(input("enter first nuber here:"))
 num2=float(input("enter another number here:"))
 sum=num1+num2
 print("add two number sum:",sum)
+# if
+a=10
+b=20
 
+if a>b:
+  print("a is greter than b")
+else b>c:
+     print("")
 #convert a dictionary into a list of tuples.
 a_dictionary={'a':1,'b':2,'c':3}
 
